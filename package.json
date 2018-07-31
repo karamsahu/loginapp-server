@@ -1,0 +1,24 @@
+{
+  "name": "loginserver",
+  "version": "1.0.0",
+  "description": "application for login and regster new user with extra security",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "server": "run"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "mongoose",
+    "demo"
+  ],
+  "author": "karamchand sahu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.6"
+  }
+}
